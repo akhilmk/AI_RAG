@@ -1,0 +1,8 @@
+Machine Learning Overview
+Machine learning is a subset of artificial intelligence that focuses on building systems that can learn from and make predictions based on data.
+It involves the use of algorithms and statistical models to enable computers to improve their performance on a specific task through experience.
+Machine learning can be categorized into three main types: supervised learning, unsupervised learning, and  reinforcement learning.
+Supervised learning involves training a model on labeled data, where the input data is paired with the  correct output.
+Unsupervised learning involves training a model on unlabeled data, allowing the model to find patterns and relationships in the data without explicit instructions.
+Reinforcement learning involves training an agent to make decisions by rewarding it for correct actions and penalizing it for incorrect actions.
+Machine learning is widely used in various applications, including image recognition, natural language processing, and recommendation systems.
