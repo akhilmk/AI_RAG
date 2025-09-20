@@ -25,6 +25,7 @@
 - This repository already has a UV virtual environment configured, sync it to start:
   ```sh
   uv sync
+  uv sync --group dev
   ```
 
 - For a fresh Setup (sample commands):
